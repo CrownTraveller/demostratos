@@ -1,3 +1,3 @@
 #Practising github
 
-some thing i do
+some thing I will do
